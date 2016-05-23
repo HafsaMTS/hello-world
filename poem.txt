@@ -1,0 +1,91 @@
+// HAFSA AHMED
+// MTS 37 A
+// ALGORITHM AND COMPUTING 
+//ASSIGNMENT 3
+#include<iostream>
+#include <string>
+using namespace std;
+class life
+{
+public:
+	void set_stage_of_life(string name)
+	{
+		stage_of_life = name;
+	}
+
+	string getstage_of_life()
+	{
+		return stage_of_life;
+	}
+	void display_message(string name)
+	{
+		if (stage_of_life == "young")
+		{
+			sing = true;
+			laugh = true; dance = true;
+			cout << "You sing , laugh and dance" << endl;
+		}
+		else
+		{
+			ignorance = true;
+			childhood = false;
+			happiness = 50;
+			honesty = 60;
+			cout << "you ignore te wonders" << endl;
+			cout << "that you cherished as a child" << endl;
+			cout << "Gone is the carefree, honesty and mild." << endl;
+			while (greed = true && blinders = on )
+				morals = 0;
+			ignoring_GOD_gifts = true;
+			selfishness = 100;
+			cout << "Ignoring all Gods gifts" << endl;
+			cout << "Like the first rain in Spring" << endl;
+		}
+	}
+private:
+	string stage_of_life;
+	bool sing, laugh, greed, ignoring_GOD_gifts, childhood, ignorance, dance;
+	int morals, honesty, happiness,selfishness;
+
+};
+void getchance();
+
+
+int main()
+
+{
+	bool we_must_apart_from_world;
+	bool time_is_brief;
+	int little_child_state;
+
+
+	string stage_of_life;
+	life time_of_life;
+	cout << "" << endl;
+	getline(cin, stage_of_life);
+	time_of_life.set_stage_of_life(stage_of_life);
+	cout << endl;
+	void display_message(string name);
+		for (string i = "begin"; i <= "end";)
+		{
+			while (time_is_brief = true)
+				little_child_state = 100;
+			
+		}
+		void getcchance();
+
+
+
+}
+void getchance()
+{
+	cout << "taking in all GOD's glory" << endl;
+	cout << " at every single chance" << endl;
+
+}
+
+
+			
+
+			
+			
